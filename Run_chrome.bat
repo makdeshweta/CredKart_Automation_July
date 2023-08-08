@@ -1,0 +1,1 @@
+pytest -v --html==Reports/myreport.html --alluredir="C:\Users\makde\Desktop\SW Testing\Pytest framework\CredKart_pytest_project 31-07-2023\CredKart_Pytest_Project - Copy\AllureReports" -n=2 --browser chrome
